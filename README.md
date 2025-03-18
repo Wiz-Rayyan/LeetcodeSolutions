@@ -71,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0904-leaf-similar-trees](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0904-leaf-similar-trees) |
 <!---LeetCode Topics End-->

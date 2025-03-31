@@ -5,9 +5,7 @@
 var createCounter = function(init) {
     let count = init;
 
-    function inc(){
-        return ++count;
-    }
+ const inc = () => ++count;
     function dec(){
         return --count;
     }

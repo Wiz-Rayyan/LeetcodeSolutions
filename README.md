@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Wiz-Rayyan/LeetcodeSolutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

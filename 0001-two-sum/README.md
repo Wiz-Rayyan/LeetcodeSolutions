@@ -54,5 +54,66 @@
 </div>
 
 
-
+<div style="
+  animation: pulse 2s infinite;
+  padding: 30px;
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+  border-radius: 16px;
+  color: white;
+  text-align: center;
+  width: 320px;
+  margin: 50px auto;
+  box-shadow: 0 12px 36px rgba(0,0,0,0.2), 0 0 0 1px rgba(255,255,255,0.1);
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+">
+  <div style="
+    font-size: 18px;
+    opacity: 0.9;
+    margin-bottom: 8px;
+    font-weight: 500;
+  ">Awesome CSS Animation</div>
+  <div style="
+    font-size: 32px;
+    font-weight: 800;
+    margin: 10px 0;
+  ">Pulse Effect!</div>
+  <div style="
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 20px;
+  ">
+    <span style="
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.7);
+      animation: pulse 1.5s infinite;
+      animation-delay: 0s;
+    "></span>
+    <span style="
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.7);
+      animation: pulse 1.5s infinite;
+      animation-delay: 0.3s;
+    ""></span>
+    <span style="
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.7);
+      animation: pulse 1.5s infinite;
+      animation-delay: 0.6s;
+    ""></span>
+  </div>
+</div>
 
